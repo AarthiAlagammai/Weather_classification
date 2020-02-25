@@ -50,5 +50,9 @@ Predicted Weather-Cloudy
 # OpenVino Deployed output
 ![Deployed Appplication using OpenVino](https://github.com/AarthiAlagammai/Weather_classification/blob/master/weather%20output1.png)
 
-## Original Datasets: 
+# How to Use the Edge App
+Direction of usage: Using the terminal, entering a command starting with `python app.py ...` to run the application, and with some flags such as `-i` to specify the input image file, `-t` to specify type such as "IMG", then `-m` to specify the model xml file, and finally `-c` to specify the CPU extension, an inference at the edge can be made. 
+
+
+## Original Dataset link: 
 
