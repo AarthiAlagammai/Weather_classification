@@ -45,3 +45,4 @@ https://pytorch.org/docs/stable/onnx.html#supported-operators
 Actual Weather-Cloudy
 Predicted Weather-Cloudy
 ```
+![sample image](https://github.com/AarthiAlagammai/Weather_classification/blob/master/pic1.png)
