@@ -45,4 +45,10 @@ https://pytorch.org/docs/stable/onnx.html#supported-operators
 Actual Weather-Cloudy
 Predicted Weather-Cloudy
 ```
-![sample image](https://github.com/AarthiAlagammai/Weather_classification/blob/master/pic1.png)
+![Sample image](https://github.com/AarthiAlagammai/Weather_classification/blob/master/sample%20image.png)
+
+# OpenVino Deployed output
+![Deployed Appplication using OpenVino](https://github.com/AarthiAlagammai/Weather_classification/blob/master/weather%20output1.png)
+
+## Original Datasets: 
+
